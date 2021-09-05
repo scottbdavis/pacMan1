@@ -12,4 +12,4 @@ Support: MDN and W3 schools contain detailed info on these concepts and an alter
 
 Roadmap: This Pacman project progresses I believe in future weeks so I will update the files as they are completed to show advanced PacMan game
 
-License information: N/A
+License information: see MIT license release in repository.
